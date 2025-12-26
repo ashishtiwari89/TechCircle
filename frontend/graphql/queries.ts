@@ -1,0 +1,1 @@
+export const GET_JOBS = `query { jobs { id title } }`;
