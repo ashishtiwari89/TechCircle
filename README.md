@@ -111,8 +111,8 @@ TechCircle was built to:
 **Your Name**  
 Software Developer  
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/ashishtiwari89  
+- LinkedIn: https://www.linkedin.com/in/ashishkti  
 
 ---
 
